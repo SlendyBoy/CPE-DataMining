@@ -125,11 +125,6 @@
         "http://commons.wikimedia.org/wiki/Special:FilePath/Urz%C4%85d%20miasta.jpg"
     ],
     [
-        "Pittsburgh",
-        "États-Unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/PittSkyline082904.jpg"
-    ],
-    [
         "Ljubljana",
         "Slovénie",
         "http://commons.wikimedia.org/wiki/Special:FilePath/Ljubljana%20Montage%202.png"
@@ -230,6 +225,11 @@
         "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastian%20Glapinski%202017%20%28Unsplash%29.jpg"
     ],
     [
+        "Iekaterinbourg",
+        "Russie",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Views%20of%20Yekaterinburg%20from%20Vysotsky%20viewpoint%20-%2012.jpg"
+    ],
+    [
         "Aix-la-Chapelle",
         "Allemagne",
         "http://commons.wikimedia.org/wiki/Special:FilePath/Blick%20AC%20Dom%20von%20St%20Jakob.JPG"
@@ -328,6 +328,11 @@
         "Kazan",
         "Russie",
         "http://commons.wikimedia.org/wiki/Special:FilePath/KAZ%20Collage%202015.png"
+    ],
+    [
+        "Pittsburgh",
+        "États-Unis",
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Duquesne%20Incline%20%2850076338942%29%20%28cropped%29.jpg"
     ],
     [
         "Jamnagar",
@@ -483,11 +488,6 @@
         "Lyon",
         "France",
         "http://commons.wikimedia.org/wiki/Special:FilePath/01.%20Panorama%20de%20Lyon%20pris%20depuis%20le%20toit%20de%20la%20Basilique%20de%20Fourvi%C3%A8re.jpg"
-    ],
-    [
-        "Le Mans",
-        "France",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20Cath%C3%A9drale%20Jardins%20Pierre%20de%20Ronsard.JPG"
     ],
     [
         "New York",
