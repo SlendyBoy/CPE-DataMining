@@ -1,502 +1,111 @@
 [
-    [
-        "Krasnoïarsk",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Krasnoyarsk%201.jpg"
-    ],
-    [
-        "São Paulo",
-        "Brésil",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Sao%20Paulo%20Skyline%20in%20Brazil.jpg"
-    ],
-    [
-        "Boston",
-        "États-Unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Boston%20Financial%20District%20skyline.jpg"
-    ],
-    [
-        "Le Caire",
-        "Égypte",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Kairo%20BW%201.jpg"
-    ],
-    [
-        "Szczecin",
-        "Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Szczecin%20aerial%203a.jpg"
-    ],
-    [
-        "Tomsk",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Tomsk0293.JPG"
-    ],
-    [
-        "Katowice",
-        "République populaire de Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20Rynek.jpg"
-    ],
-    [
-        "Gênes",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Genova%20panorama%20centro%20storico%20da%20villetta%20Di%20Negro.jpg"
-    ],
-    [
-        "Groningue",
-        "Pays-Bas",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Hoge%20der%20Aa2.jpg"
-    ],
-    [
-        "Tours",
-        "France",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Loire%20Indre%20Tours1%20tango7174.jpg"
-    ],
-    [
-        "Volgograd",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Volgograd%20Montage%202016.png"
-    ],
-    [
-        "Tbilissi",
-        "Géorgie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Vista%20de%20Tiflis%2C%20Georgia%2C%202016-09-29%2C%20DD%2067-71%20PAN.jpg"
-    ],
-    [
-        "Perm",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Perm%20asv2019-05%20img50%20Gorky%20Park.jpg"
-    ],
-    [
-        "Skopje",
-        "Macédoine du Nord",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Skopje%202014%20-%20Art%20Bridge.JPG"
-    ],
-    [
-        "Oslo",
-        "Norvège",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Oslo%20newer%20montage%202013.png"
-    ],
-    [
-        "Rennes",
-        "France",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20sud-ouest%20de%20la%20place%20du%20parlement%20de%20Bretagne%2C%20Rennes%2C%20France.jpg"
-    ],
-    [
-        "Lille",
-        "France",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20vue%20gd%20place.JPG"
-    ],
-    [
-        "Milan",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Milano%20piazza%20Duomo.jpg"
-    ],
-    [
-        "Trieste",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Trieste%20%2828766391880%29.jpg"
-    ],
-    [
-        "Pékin",
-        "république populaire de Chine",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Skyline%20of%20Beijing%20CBD%20with%20B-5906%20approaching%20%2820211016171955%29.jpg"
-    ],
-    [
-        "Villeurbanne",
-        "France",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Place%20lazare%20goujon.jpg"
-    ],
-    [
-        "Jérusalem",
-        "Israël",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20Dome%20of%20the%20rock%20BW%2014.JPG"
-    ],
-    [
-        "Toronto",
-        "Canada",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Toronto%20Montage%202020.jpg"
-    ],
-    [
-        "Katowice",
-        "Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20Rynek.jpg"
-    ],
-    [
-        "Rzeszów",
-        "Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Urz%C4%85d%20miasta.jpg"
-    ],
-    [
-        "Ljubljana",
-        "Slovénie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Ljubljana%20Montage%202.png"
-    ],
-    [
-        "Zwolle",
-        "Pays-Bas",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Zicht%20op%20Zwolle%20Centrum.jpg"
-    ],
-    [
-        "Varsovie",
-        "Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/2017-05-27%20Plac%20Zamkowy%20w%20Warszawie%201.jpg"
-    ],
-    [
-        "Modène",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20modena%2009.jpg"
-    ],
-    [
-        "Lausanne",
-        "Suisse",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Lausanne%20img%200585.jpg"
-    ],
-    [
-        "Grenoble",
-        "France",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Grenoble%2001.JPG"
-    ],
-    [
-        "Manille",
-        "Philippines",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Big%20Manila.jpg"
-    ],
-    [
-        "Région de Bruxelles-Capitale",
-        "Belgique",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Atomium%2C%20Br%C3%BCssel%202.jpg"
-    ],
-    [
-        "Région de Bruxelles-Capitale",
-        "Belgique",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Berlaymont%20building%20%28DSCF7542-DSCF7548%29.jpg"
-    ],
-    [
-        "Région de Bruxelles-Capitale",
-        "Belgique",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Hortamuseum.tif"
-    ],
-    [
-        "Région de Bruxelles-Capitale",
-        "Belgique",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Palace%20in%20Brussels.JPG"
-    ],
-    [
-        "Bergame",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Sunrise%20at%20Bergamo%20old%20town%2C%20Lombardy%2C%20Italy.jpg"
-    ],
-    [
-        "Zagreb",
-        "Croatie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Zagreb%20%2829255640143%29.jpg"
-    ],
-    [
-        "Cologne",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Stadtbild%20K%C3%B6ln%20%2850MP%29.jpg"
-    ],
-    [
-        "San Antonio",
-        "États-Unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/SA%20Montage%20Nima.png"
-    ],
-    [
-        "Alexandrie",
-        "Égypte",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandria%20-%20Egypt.jpg"
-    ],
-    [
-        "Washington",
-        "États-Unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/DCmontage2.jpg"
-    ],
-    [
-        "Berne",
-        "Suisse",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Bern%20luftaufnahme.png"
-    ],
-    [
-        "Singapour",
-        "Singapour",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Raffles%20Place.jpg"
-    ],
-    [
-        "Łódź",
-        "Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastian%20Glapinski%202017%20%28Unsplash%29.jpg"
-    ],
-    [
-        "Iekaterinbourg",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Views%20of%20Yekaterinburg%20from%20Vysotsky%20viewpoint%20-%2012.jpg"
-    ],
-    [
-        "Aix-la-Chapelle",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Blick%20AC%20Dom%20von%20St%20Jakob.JPG"
-    ],
-    [
-        "Novossibirsk",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Novosibirsk%2082.96421E%2054.98117N.jpg"
-    ],
-    [
-        "Novossibirsk",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Novosibirsk%20view.jpg"
-    ],
-    [
-        "Nijni Novgorod",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/NN%2001-09-2021%2006.jpg"
-    ],
-    [
-        "Omsk",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Omsk%20Collage%202016.png"
-    ],
-    [
-        "Heilbronn",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Heilbronn%20Innenstadt%20u%20Wartberg%2020050918.jpg"
-    ],
-    [
-        "Heilbronn",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Rathaus%20HN.JPG"
-    ],
-    [
-        "San Francisco",
-        "États-Unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/San%20Francisco%20from%20the%20Marin%20Headlands%20in%20March%202019.jpg"
-    ],
-    [
-        "Katowice",
-        "Prusse",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20Rynek.jpg"
-    ],
-    [
-        "Maribor",
-        "Slovénie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/19-03-03-Maribor-RalfR-DJI%200444.jpg"
-    ],
-    [
-        "Cambridge",
-        "Royaume-Uni",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/KingsCollegeChapelWest.jpg"
-    ],
-    [
-        "Bruxelles",
-        "Belgique",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Brussels%20view%20from%20Mont%20des%20Arts%2C%20Brussels%2C%20Belgium%20%28cropped%29.jpg"
-    ],
-    [
-        "Venise",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Venice%20Old%20Town%20Lagoon%20Aerial%20View.jpg"
-    ],
-    [
-        "Sofia",
-        "Bulgarie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20church%20%2837591925970%29.jpg"
-    ],
-    [
-        "Ahmedabad",
-        "Inde",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Amdavad%20Aerial.jpg"
-    ],
-    [
-        "Samara",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Samara%20-%20Port%20%282008-07-13%29.jpg"
-    ],
-    [
-        "Dortmund",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Dortmund%20Panorama.jpg"
-    ],
-    [
-        "Stuttgart",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Stuttgart%20Downtown%20Sights%20Collage.png"
-    ],
-    [
-        "Berlin",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Cityscape%20Berlin.jpg"
-    ],
-    [
-        "Kazan",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/KAZ%20Collage%202015.png"
-    ],
-    [
-        "Pittsburgh",
-        "États-Unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Duquesne%20Incline%20%2850076338942%29%20%28cropped%29.jpg"
-    ],
-    [
-        "Jamnagar",
-        "Inde",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Lakhota%20Tower%20in%20evening%20by%20Rangilo.JPG"
-    ],
-    [
-        "Montevideo",
-        "Uruguay",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20Landmarks%20of%20Montevideo.jpg"
-    ],
-    [
-        "Oufa",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/%D3%A8%D0%A4%D3%A8-2015-%28v2%29.jpg"
-    ],
-    [
-        "Katowice",
-        "Deuxième République de Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Katowice%20Rynek.jpg"
-    ],
-    [
-        "Chicago",
-        "États-Unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/2010-02-19%203000x2000%20chicago%20skyline.jpg"
-    ],
-    [
-        "Hambourg",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Landungsbr%C3%BCcken%20Hamburg.jpg"
-    ],
-    [
-        "Gdynia",
-        "Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/00%20sea%20towers%20%28April%202018%29.jpg"
-    ],
-    [
-        "Bangalore",
-        "Inde",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/BangaloreMontage.png"
-    ],
-    [
-        "Białystok",
-        "Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Rynek%20Ko%C5%9Bciuszki%2C%20Bia%C5%82ystok%20%282%29.jpg"
-    ],
-    [
-        "Rome",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Roma%20dall%27aereo.JPG"
-    ],
-    [
-        "Turin",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Turin%20Montage.png"
-    ],
-    [
-        "Salerne",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/SalernoCanalone.jpg"
-    ],
-    [
-        "Moscou",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Basil%27s%20Cathedral%20and%20the%20Red%20Square.jpg"
-    ],
-    [
-        "Poznań",
-        "Pologne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Stare%20Miasto%20w%20Poznaniu.jpg"
-    ],
-    [
-        "Dubaï",
-        "Émirats arabes unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/DubaiCollage.jpg"
-    ],
-    [
-        "Gand",
-        "Belgique",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%20-%20centre.jpg"
-    ],
-    [
-        "Plovdiv",
-        "Bulgarie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Plovdiv%20mosaic%201.jpg"
-    ],
-    [
-        "Perm",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Perm%20Russia.jpg"
-    ],
-    [
-        "Amsterdam",
-        "Pays-Bas",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/AmsterdamLuchtfotoBmz.jpg"
-    ],
-    [
-        "Genève",
-        "Suisse",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Geneva%20from%20Mount%20Sal%C3%A8ve.jpg"
-    ],
-    [
-        "Madras",
-        "Inde",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Chennai%20train%20station.jpg"
-    ],
-    [
-        "Vilnius",
-        "Lituanie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Vilnius%20Modern%20Skyline%2C%20Lithuania%20-%20Diliff.jpg"
-    ],
-    [
-        "Prague",
-        "Tchéquie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Pet%C5%99%C3%ADn%20Tower%20View%20IMG%203020.JPG"
-    ],
-    [
-        "Karlsruhe",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Karlsruhe%20asv2022-10%20img07%20Schloss%20Karlsruhe.jpg"
-    ],
-    [
-        "Bâle",
-        "Suisse",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Rhine%20Rhein%20Basel%202006%20871.JPG"
-    ],
-    [
-        "Bonn",
-        "Allemagne",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Altes%20Rathaus%20Bonn.jpg"
-    ],
-    [
-        "Saint-Pétersbourg",
-        "Russie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20%26%20Paul%20fortress%20in%20SPB%2003.jpg"
-    ],
-    [
-        "Los Angeles",
-        "États-Unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Los%20Angeles%20with%20Mount%20Baldy.jpg"
-    ],
-    [
-        "Lisbonne",
-        "Portugal",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Montagem%20de%20Lisboa.png"
-    ],
-    [
-        "Padoue",
-        "Italie",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Padua%20-%20Prato%20della%20Valle.jpg"
-    ],
-    [
-        "Lyon",
-        "France",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/01.%20Panorama%20de%20Lyon%20pris%20depuis%20le%20toit%20de%20la%20Basilique%20de%20Fourvi%C3%A8re.jpg"
-    ],
-    [
-        "New York",
-        "États-Unis",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/NYC%20Downtown%20Manhattan%20Skyline%20seen%20from%20Paulus%20Hook%202019-12-20%20IMG%207347%20FRD%20%28cropped%29.jpg"
-    ],
-    [
-        "Islamabad",
-        "Pakistan",
-        "http://commons.wikimedia.org/wiki/Special:FilePath/Islamabad%20skyline.jpg"
-    ]
+    {
+        "id": 1,
+        "ville": "Krasnoïarsk",
+        "pays": "Russie",
+        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Krasnoyarsk%201.jpg",
+        "path": "./images/Aerial%20view%20of%20Krasnoyarsk%201.jpg",
+        "colors": [
+            "darkgray",
+            "lightslategray",
+            "gray",
+            "lightgray",
+            "darkslategray",
+            "dimgray",
+            "gainsboro",
+            "black"
+        ],
+        "year": "2006",
+        "width": 2272,
+        "height": 1704,
+        "orientation": "landscape",
+        "size": "Grande image"
+    },
+    {
+        "id": 2,
+        "ville": "São Paulo",
+        "pays": "Brésil",
+        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sao%20Paulo%20Skyline%20in%20Brazil.jpg",
+        "path": "./images/Sao%20Paulo%20Skyline%20in%20Brazil.jpg",
+        "colors": [
+            "darkgray",
+            "gray",
+            "darkkhaki",
+            "darkslategray",
+            "dimgray",
+            "silver",
+            "wheat",
+            "black"
+        ],
+        "year": "2006",
+        "width": 3072,
+        "height": 2048,
+        "orientation": "landscape",
+        "size": "Grande image"
+    },
+    {
+        "id": 3,
+        "ville": "Boston",
+        "pays": "États-Unis",
+        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Boston%20Financial%20District%20skyline.jpg",
+        "path": "./images/Boston%20Financial%20District%20skyline.jpg",
+        "colors": [
+            "cornflowerblue",
+            "gray",
+            "darkslategray",
+            "silver",
+            "dimgray",
+            "royalblue",
+            "cadetblue",
+            "lightgray",
+            "lavender",
+            "black"
+        ],
+        "year": "2006",
+        "width": 2304,
+        "height": 1728,
+        "orientation": "landscape",
+        "size": "Grande image"
+    },
+    {
+        "id": 4,
+        "ville": "Le Caire",
+        "pays": "Égypte",
+        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kairo%20BW%201.jpg",
+        "path": "./images/Kairo%20BW%201.jpg",
+        "colors": [
+            "darkgray",
+            "rosybrown",
+            "lightslategray",
+            "gray",
+            "darkslategray",
+            "dimgray",
+            "silver",
+            "wheat",
+            "darkolivegreen",
+            "black"
+        ],
+        "year": "2010"
+    },
+    {
+        "id": 5,
+        "ville": "Szczecin",
+        "pays": "Pologne",
+        "url": "http://commons.wikimedia.org/wiki/Special:FilePath/Szczecin%20aerial%203a.jpg",
+        "path": "./images/Szczecin%20aerial%203a.jpg",
+        "colors": [
+            "darkgray",
+            "gray",
+            "darkslategray",
+            "dimgray",
+            "darkolivegreen",
+            "lightgray",
+            "black"
+        ],
+        "year": "2016",
+        "width": 2816,
+        "height": 2112,
+        "orientation": "landscape",
+        "size": "Grande image"
+    }
 ]
