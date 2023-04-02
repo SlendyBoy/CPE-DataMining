@@ -19,7 +19,8 @@
         "width": 2272,
         "height": 1704,
         "orientation": "landscape",
-        "size": "Grande image"
+        "size": "Grande image",
+        "user": "like"
     },
     {
         "id": 2,
@@ -41,7 +42,8 @@
         "width": 3072,
         "height": 2048,
         "orientation": "landscape",
-        "size": "Grande image"
+        "size": "Grande image",
+        "user": "like"
     },
     {
         "id": 3,
@@ -65,7 +67,8 @@
         "width": 2304,
         "height": 1728,
         "orientation": "landscape",
-        "size": "Grande image"
+        "size": "Grande image",
+        "user": "like"
     },
     {
         "id": 4,
@@ -85,7 +88,8 @@
             "darkolivegreen",
             "black"
         ],
-        "year": "2010"
+        "year": "2010",
+        "user": "dislike"
     },
     {
         "id": 5,
@@ -106,6 +110,7 @@
         "width": 2816,
         "height": 2112,
         "orientation": "landscape",
-        "size": "Grande image"
+        "size": "Grande image",
+        "user": "dislike"
     }
 ]
